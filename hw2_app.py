@@ -1,6 +1,15 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+# In[ ]:
+
+
+get_ipython().system('pip install fastai2')
+get_ipython().system('pip install nbdev')
+get_ipython().system('pip install graphviz')
+get_ipython().system('pip install azure.cognitiveservices.search.imagesearch')
+
+
 # In[1]:
 
 
