@@ -17,7 +17,7 @@ from pathlib import Path
 # In[2]:
 
 
-bing_api_key = 'abc77f12e0fb42e1b15240f49dd9d8af'
+bing_api_key = ''
 
 
 # ### Obtaining the Current List of Champions ###
